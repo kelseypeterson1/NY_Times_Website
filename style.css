@@ -1,0 +1,77 @@
+h5 {
+  text-align: center;
+  font-family: "Old English", serif;
+  font-weight: normal;
+}
+
+h4 {
+  font-size: 14px;
+}
+
+.logo {
+  width: 30%;
+  height: auto;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.mainpage {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 80%;
+  height: 100%;
+  font-family: Georgia, times, serif;
+}
+
+.leftpane {
+  width: 25%;
+  height: 100%;
+  float: left;
+  font-weight: normal;
+}
+
+.details {
+  font-size: 16px;
+  color: #737373;
+}
+
+.middlepane {
+  width: 50%;
+  height: 100%;
+  float: left;
+  border-collapse: collapse;
+}
+
+.firstpicture {
+  width: 97%;
+  height: auto;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.rightpane {
+  width: 24%;
+  height: 100%;
+  position: relative;
+  float: right;
+  border-left-style: solid;
+  border-left-width: 1px;
+  padding-left: 10px;
+}
+
+.secondpicture {
+  width: 100%;
+  height: auto;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.toppane {
+  width: 100%;
+  height: 20px;
+  border-collapse: collapse;
+}
